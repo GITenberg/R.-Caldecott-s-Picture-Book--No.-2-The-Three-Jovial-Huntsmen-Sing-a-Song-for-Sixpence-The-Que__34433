@@ -1,0 +1,32 @@
+_repo: R.-Caldecott-s-Picture-Book--No.-2-The-Three-Jovial-Huntsmen-Sing-a-Song-for-Sixpence-The-Que__34433
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34433-h/images/i_back_cover.jpg
+creator:
+  author:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+description: The three jovial huntsmen. -- Sing a song for sixpence. -- The queen
+  of hearts. -- The farmer's boy.
+gutenberg_issued: '2010-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Nursery rhymes, English'
+title: 'R. Caldecott''s Picture Book (No. 2)
+
+  The Three Jovial Huntsmen—Sing a Song for Sixpence—The Queen of Hearts—The Farmer''s
+  Boy'
+url: http://www.gutenberg.org/ebooks/34433
